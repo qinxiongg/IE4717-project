@@ -6,6 +6,6 @@
     },
     "routes": [
       { "src": "/(.*)",  "dest": "/api/index.php" },
-      { "src": "/api/design.css", "dest": "/api/design.css" },
-      { "src": "/api/autoscroll.js", "dest": "/api/autoscroll.js" }]
+      { "src": "/css/design.css", "dest": "/css/design.css" },
+      { "src": "/js/autoscroll.js", "dest": "/js/autoscroll.js" }]
   }
