@@ -11,7 +11,7 @@ if (isset($_SESSION['logged_in']) === true) {
 <head>
     <title>GEXE Store</title>
     <meta charset="utf-8">
-    <link rel="stylesheet" href="design.css">
+    <link rel="stylesheet" href="style.css">
     <style>
         .image_grid {
             display: flex;
